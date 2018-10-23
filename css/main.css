@@ -1,0 +1,25 @@
+body{
+    margin-right: 10%;
+    margin-left: 10%;
+}
+.header {
+    text-align: center;
+}
+.right {
+    text-align: right;
+}
+hr {
+    width: 100%;
+    visibility: hidden;
+}
+.img_1 {
+    margin: 0 5px 5px 0;
+    float: left;
+    width: 30%;
+
+}
+.img_2 {
+    display: block;
+    margin: auto;
+    width: 40%;
+}
